@@ -14,7 +14,7 @@ iniparse==0.4
 IPy==0.81
 javapackages==4.6.0
 langtable==0.0.35
-lxml==3.4.4
+lxml==4.6.3
 Mako==1.0.3
 MarkupSafe==0.23
 ntplib==0.3.3
