@@ -50,5 +50,5 @@ slip.dbus==0.6.4
 sosreport==3.2.0a1
 SSSDConfig==1.14.1
 systemd-python==232
-urllib3==1.15.1
+urllib3==1.26.5
 virtualenv==15.0.3
